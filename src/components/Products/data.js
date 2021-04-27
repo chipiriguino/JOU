@@ -1,9 +1,6 @@
 import product1 from "../../images/product-1.jpg";
 import product2 from "../../images/product-2.jpg";
 import product3 from "../../images/product-3.jpg";
-import product4 from "../../images/product-3.jpg";
-import product5 from "../../images/product-2.jpg";
-import product6 from "../../images/product-1.jpg";
 
 import sweet1 from "../../images/sweet3.jpg";
 import sweet2 from "../../images/sweet-2.jpg";
@@ -35,33 +32,6 @@ export const productData = [
     desc:
       " Marinara sauce, basil, italian sausage, roma tomatoes, olives, and pesto",
     price: "$14.99",
-    button: "Add to Cart",
-  },
-  {
-    img: product4,
-    alt: "Pizza",
-    name: "Veggie Overload",
-    desc:
-      " Marinara sauce, basil, italian sausage, roma tomatoes, olives, and pesto",
-    price: "$24.99",
-    button: "Add to Cart",
-  },
-  {
-    img: product5,
-    alt: "Pizza",
-    name: "Veggie Overload",
-    desc:
-      " Marinara sauce, basil, italian sausage, roma tomatoes, olives, and pesto",
-    price: "$30.99",
-    button: "Add to Cart",
-  },
-  {
-    img: product6,
-    alt: "Pizza",
-    name: "Veggie Overload",
-    desc:
-      " Marinara sauce, basil, italian sausage, roma tomatoes, olives, and pesto",
-    price: "$19.99",
     button: "Add to Cart",
   },
 ];
